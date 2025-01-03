@@ -1,3 +1,4 @@
 ＃老師好，在我的github中，我會放置我讀的文章總結及之後預計讀的文章
 由於預計讀的文章檔案太大，在此進行說明
 檔名爲ntu-112-2文章，是考量動態市場條件下納入頭組最佳化
+而在Deep_Direct_Reinforcement_Learning_for_Financial_Signal_Representation_and_Trading文章中，我預計將第五章節Policy gradient methods for deep RL讀完
